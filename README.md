@@ -2,8 +2,7 @@ I deleted the src code for it so can't see it :(
 
 ![](./image_2024-09-30_001037497.png)
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/1ZPAfIwLP5o" frameborder="0" allowfullscreen
-  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-  </iframe>
-</div>
+also here's a test from before the annoying anticheat
+![](https://www.youtube.com/watch?v=1ZPAfIwLP5o)
+
+I think 'mhpk-1.0.0.jar' works with the anticheat but idk I'm not checking...
